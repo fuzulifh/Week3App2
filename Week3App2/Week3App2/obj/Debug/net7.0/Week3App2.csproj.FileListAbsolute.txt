@@ -1,0 +1,15 @@
+C:\Users\fuzulifh\Desktop\PB501Project\Week3App2\Week3App2\Week3App2\bin\Debug\net7.0\Week3App2.exe
+C:\Users\fuzulifh\Desktop\PB501Project\Week3App2\Week3App2\Week3App2\bin\Debug\net7.0\Week3App2.deps.json
+C:\Users\fuzulifh\Desktop\PB501Project\Week3App2\Week3App2\Week3App2\bin\Debug\net7.0\Week3App2.runtimeconfig.json
+C:\Users\fuzulifh\Desktop\PB501Project\Week3App2\Week3App2\Week3App2\bin\Debug\net7.0\Week3App2.dll
+C:\Users\fuzulifh\Desktop\PB501Project\Week3App2\Week3App2\Week3App2\bin\Debug\net7.0\Week3App2.pdb
+C:\Users\fuzulifh\Desktop\PB501Project\Week3App2\Week3App2\Week3App2\obj\Debug\net7.0\Week3App2.csproj.AssemblyReference.cache
+C:\Users\fuzulifh\Desktop\PB501Project\Week3App2\Week3App2\Week3App2\obj\Debug\net7.0\Week3App2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuzulifh\Desktop\PB501Project\Week3App2\Week3App2\Week3App2\obj\Debug\net7.0\Week3App2.AssemblyInfoInputs.cache
+C:\Users\fuzulifh\Desktop\PB501Project\Week3App2\Week3App2\Week3App2\obj\Debug\net7.0\Week3App2.AssemblyInfo.cs
+C:\Users\fuzulifh\Desktop\PB501Project\Week3App2\Week3App2\Week3App2\obj\Debug\net7.0\Week3App2.csproj.CoreCompileInputs.cache
+C:\Users\fuzulifh\Desktop\PB501Project\Week3App2\Week3App2\Week3App2\obj\Debug\net7.0\Week3App2.dll
+C:\Users\fuzulifh\Desktop\PB501Project\Week3App2\Week3App2\Week3App2\obj\Debug\net7.0\refint\Week3App2.dll
+C:\Users\fuzulifh\Desktop\PB501Project\Week3App2\Week3App2\Week3App2\obj\Debug\net7.0\Week3App2.pdb
+C:\Users\fuzulifh\Desktop\PB501Project\Week3App2\Week3App2\Week3App2\obj\Debug\net7.0\Week3App2.genruntimeconfig.cache
+C:\Users\fuzulifh\Desktop\PB501Project\Week3App2\Week3App2\Week3App2\obj\Debug\net7.0\ref\Week3App2.dll
